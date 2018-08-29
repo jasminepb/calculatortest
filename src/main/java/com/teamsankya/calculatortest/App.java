@@ -5,10 +5,7 @@ import com.teamsankya.calculator11.Division;
 import com.teamsankya.calculator11.Multiplication;
 import com.teamsankya.calculator11.Subtraction;
 
-/**
- * Hello world!
- *
- */
+
 public class App 
 {
     public static void main( String[] args )
